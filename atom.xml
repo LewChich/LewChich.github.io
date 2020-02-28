@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lewchich.cn</id>
     <title>LewChich</title>
-    <updated>2019-10-10T03:57:42.322Z</updated>
+    <updated>2020-02-28T05:05:33.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lewchich.cn"/>
     <link rel="self" href="https://lewchich.cn/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://lewchich.cn/images/avatar.png</logo>
     <icon>https://lewchich.cn/favicon.ico</icon>
-    <rights>All rights reserved 2019, LewChich</rights>
+    <rights>All rights reserved 2020, LewChich</rights>
+    <entry>
+        <title type="html"><![CDATA[随感]]></title>
+        <id>https://lewchich.cn/post/sui-gan</id>
+        <link href="https://lewchich.cn/post/sui-gan">
+        </link>
+        <updated>2020-02-28T05:04:20.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>    也许...</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://lewchich.cn/post/hello-gridea</id>
